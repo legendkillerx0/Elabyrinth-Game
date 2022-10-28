@@ -1,5 +1,7 @@
 # Sprint-9
 
+![square-maze-labyrinth-game-kids-labyrinth-logic-conundrum-four-entrance-one-right-way-go_501173-823](https://user-images.githubusercontent.com/98895052/198579776-844c7cd4-65d3-4ce3-9c86-0795c4a364b4.jpg)
+
 ```text
 A Labyrinth is a tree-based maze in the Royal House of England where the royals often enjoyed themselves with their servants who would get in and find their way out of a labyrinth maze.
 
