@@ -6,7 +6,7 @@
 
 ## DFD 1
 
-
+![image](https://user-images.githubusercontent.com/98895052/198586389-277158fe-c40d-4394-8f54-1eaa15833172.png)
 
 ## Maze Concept :- 
 
@@ -15,6 +15,8 @@
 ## Mazes with varied levels 
 
 ![image](https://user-images.githubusercontent.com/98895052/198574194-39cab62d-e45f-403b-94d1-022b51611096.png)
+
+![hard](https://user-images.githubusercontent.com/98895052/198584842-3087d6ab-0bce-44cb-b5c8-ad4fd4ac4155.jpeg)
 
 ## CSV Files 
 
